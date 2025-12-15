@@ -13,19 +13,86 @@ format:
 Current state and future directions
 :::
 
-## What is VRE? DAWA
+## Today
 ::: {.theme-section}
-Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+- What are VREs?
+- The ResearchCloud platform
+- VRE service at UU
+- Usecases and projects at UU
+- Demo
+- Questions/discussions
+:::
+
+## What is a VRE?
+::: {style="text-align: left; margin-top: 2em"}
+
+On-demand cloud computing resources, pre-configured for various research/analysis needs.
+
+Contrast with supercomputing: focus on ease of use, interactivity, collaboration.
+
+- Google Collab
+- Custom solutions
+- **SURF ResearchCloud**
+
+:::
+
+## SURF Research Cloud
+::: {style="text-align: left; margin-top: 2em"}
+
+Features:
+
+- Easy collaboration in and across institutions.
+- Special applications, customizable environments, reproducibility.
+- Special SANE environments for sensitive data.
+- Vendor neutral: deploy on commercial cloud, or bring your own cloud.
+
 :::
 
 ## SURF Research Cloud
 
+![](images/clouds.png)
+
+## SURF Research Cloud
+::: {style="text-align: left; margin-top: 2em"}
+
+General use cases:
+
+- Programming and analysis (e.g. R-Studio, Jupyter, Matlab).
+- Field-specific software (e.g. GIS).
+- On-demand webservices (e.g. Galaxy, ASReview).
+- ...or simply your own desktop or commandline machine in the cloud.
+
+:::
+
+## SURF Research Cloud
+::: {style="text-align: left; margin-top: 2em"}
+
+For who is it? Those who...
+
+- need to be able to collaborate or share with others.
+- need more compute (CPU/GPU), but don't need access to a supercomputer.
+- have non-traditional HPC needs (analysis tools and services).
+- process sensitive data.
+
+:::
+
+
+## SURF Research Cloud
+::: {style="text-align: left; margin-top: 2em"}
+
+What is it not for?
+
+- highly parallelized computations.
+- long-living webservices/hosting.
+
+:::
+
+## SURF Research Cloud:
 ::: {.theme-section}
-- Started ~7 years ago
-- Portal for creating/deploying VREs on SURFs HPC cloud
-- Vendor neutral, deploy on commercial clouds (AWS, Azure, european cloud providers)
-- Deploy on you own infrastructure
-- Usergroup meeting (Support and Development contract)
+- ResearchCloud started ~7 years ago
+- UU has a "Support & development" contract
+
+...but ResearchCloud is also being actively improved in the context of national and international projects
 :::
 
 ## SURF Research Cloud: national projects
@@ -52,8 +119,6 @@ Quarto enables you to weave together content and executable code into a finished
 ## EOSC NL Node
 
 ![](images/eosc_nl_node.png)
-
-## Strengths/weaknesses DAWA
 
 ## VREs and TREs at UU
 
@@ -114,9 +179,18 @@ Quarto enables you to weave together content and executable code into a finished
 
 ::: {.theme-section}
 FAQs:
+
 - "I have run out of my free Colab hours"
 - "I need a GPU for ..."
 - "I need a powerful VM for ..."
+- "I want to collaborate on..."
+:::
+
+## Use cases at UU 
+
+::: {.theme-section}
+
+Projects:
 
 - Firmbackbone
 - Medical Related Harm (Open MRH infrastructure)
@@ -133,17 +207,14 @@ FAQs:
 ## DEMO
 
 
-## Discussion
+## Discussion & Questions
 
-Sane training?
-What do you need?
-How can we cooperate?
+Topics:
 
-One VRE to rule them all?
-vs
-Specific VREs for specific tasks?
-
-Feature requests?
+- Sensitive data: usescases for SANE? Training?
+- What do you need, and how can we cooperate?
+- 'One VRE to rule them all'?
+- Feature requests? 
 
 # {data-background-color="#FFCD00"}
 
