@@ -84,6 +84,7 @@ What is it not for?
 
 - highly parallelized computations.
 - long-living webservices/hosting.
+- long-term storage.
 
 :::
 
