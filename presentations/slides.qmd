@@ -1,0 +1,151 @@
+--- 
+format: 
+  revealjs:
+    theme: themes/uu.scss
+    logo: images/UU_logo_2021_EN_RGB.png
+    footer: "Dawa Ometto & Jelle Treep"
+
+---
+
+# Virtual Research Environments {data-background-color="#FFCD00"}
+
+::: {.r-stack}
+Current state and future directions
+:::
+
+## What is VRE? DAWA
+::: {.theme-section}
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+:::
+
+## SURF Research Cloud
+
+::: {.theme-section}
+- Started ~7 years ago
+- Portal for creating/deploying VREs on SURFs HPC cloud
+- Vendor neutral, deploy on commercial clouds (AWS, Azure, european cloud providers)
+- Deploy on you own infrastructure
+- Usergroup meeting (Support and Development contract)
+:::
+
+## SURF Research Cloud: national projects
+
+::: {.theme-section}
+- DIGILAB (Naturalis, KNMI, WUR, NFI, WODC, RCE, RIVM, TNO, NLR, Deltares, Marin) 
+- JUSTICE Link (NFI, WODC)
+- Cardio Resource
+- FAIRTOOLS
+- SANE, SSHOC-NL, Macroscoop
+- Cloud-NES
+- FairWorkflows (Galaxy, Nextflow, Snakemake)
+:::
+
+## SURF Research Cloud: international
+
+::: {.theme-section}
+- GEANT DRE PoC (SE, IE, NO, CH)
+- EOSC Entrust (TREs)
+- Elixir Compute Platform (workflows)
+- PanES3
+:::
+
+## EOSC NL Node
+
+![](images/eosc_nl_node.png)
+
+## Strengths/weaknesses DAWA
+
+## VREs and TREs at UU
+
+::: {.theme-section}
+
+![](images/rdms-website.png){width=75%}
+
+- Intake with engineer (30 minutes)
+- Starting budget of 10.000 credits
+- &rarr; Onboarding time ~2 days
+
+:::
+
+
+## What can you get with 10k credits
+
+::: {.theme-section}
+
+- 10.000 credits ~ 350 euro
+
+- ~ 10.000 hours on a single CPU core
+- ~ 450 hours on a GPU (NVIDIA RTX 2080, A10)
+- ~ 1 TB for little more than 1 year
+
+:::
+
+
+## More on budgets
+
+::: {.theme-section}
+
+- Small compute application (SURF)
+  - 50.000 CPU hours, 5.000 GPU hours and 2 TB storage
+  - Simple application form, processing time < 2 weeks
+  - 1 submission per person per year
+- Large compute application (NWO)
+  - Anything more than Small Compute Application
+  - Larger application form, processing time ~ 2 months
+
+**No project budget is needed!**
+:::
+
+## UU VRE service
+
+::: {.theme-section}
+- Support & Consultancy (Walk in hours)
+- Getting Started training (bi-weekly)
+- Sane training (upon request)
+- HPC Spring School (annual)
+- Catalog Item development
+
+![](images/UU-catalog-item-collection.png){width=75%}
+:::
+
+
+
+## Use cases at UU 
+
+::: {.theme-section}
+FAQs:
+- "I have run out of my free Colab hours"
+- "I need a GPU for ..."
+- "I need a powerful VM for ..."
+
+- Firmbackbone
+- Medical Related Harm (Open MRH infrastructure)
+- ASReview
+- Galaxy
+- Virtualship
+
+:::
+
+## Projects per faculty
+
+## Small compute applications
+
+## DEMO
+
+
+## Discussion
+
+Sane training?
+What do you need?
+How can we cooperate?
+
+One VRE to rule them all?
+vs
+Specific VREs for specific tasks?
+
+Feature requests?
+
+# {data-background-color="#FFCD00"}
+
+![](images/UU_logo_2021_EN_RGB_payoff.png)
+
