@@ -3,7 +3,7 @@ format:
   revealjs:
     theme: themes/uu.scss
     logo: images/UU_logo_2021_EN_RGB.png
-    footer: "Dawa Ometto & Jelle Treep"
+    footer: "Dawa Ometto & Jelle Treep | Slides: edu.nl/dwkcb"
 
 ---
 
@@ -21,6 +21,8 @@ Current state and future directions
 - Usecases and projects at UU
 - Demo
 - Questions/discussions
+
+These slides: **edu.nl/dwkcb**
 :::
 
 ## What is a VRE?
@@ -30,8 +32,8 @@ On-demand cloud computing resources, pre-configured for various research/analysi
 
 Contrast with supercomputing: focus on ease of use, interactivity, collaboration.
 
-- Google Collab
-- Custom solutions
+- Google Colab
+- Custom solutions (e.g. [Biomolecular Interactions](https://rascar.science.uu.nl/))
 - **SURF ResearchCloud**
 
 :::
@@ -125,7 +127,7 @@ What is it not for?
 
 ::: {.theme-section}
 
-![](images/rdms-website.png){width=75%}
+![](images/rdms-website.png){width=60%}
 
 - Intake with engineer (30 minutes)
 - Starting budget of 10.000 credits
@@ -134,14 +136,13 @@ What is it not for?
 :::
 
 
-## What can you get with 10k credits
+## How much is 10k credits?
 
-::: {.theme-section}
+::: {.theme-section-large}
 
-- 10.000 credits ~ 350 euro
-
+- ~ 350 euro
 - ~ 10.000 hours on a single CPU core
-- ~ 450 hours on a GPU (NVIDIA RTX 2080, A10)
+- ~ 450 hours on a GPU (e.g. NVIDIA A10)
 - ~ 1 TB for little more than 1 year
 
 :::
@@ -162,6 +163,10 @@ What is it not for?
 **No project budget is needed!**
 :::
 
+:::{.footer}
+See more: [Access to compute services](https://www.surf.nl/en/access-to-compute-services)
+:::
+
 ## UU VRE service
 
 ::: {.theme-section}
@@ -171,9 +176,11 @@ What is it not for?
 - HPC Spring School (annual)
 - Catalog Item development
 
-![](images/UU-catalog-item-collection.png){width=75%}
 :::
 
+## Catalog item collection
+
+![](images/UU-catalog-item-collection.png){width=75%}
 
 
 ## Use cases at UU 
@@ -203,7 +210,20 @@ Projects:
 
 ## Projects per faculty
 
+| Faculty | Projects |
+|---------|----------|
+| Geosciences | 20 |
+| Science | 29 |
+| Humanities | 20 |
+| Social Sciences | 18 |
+| Law and Economics | 11 |
+| Veterinary Medicine | 24 |
+
+: {.striped}
+
 ## Small compute applications
+
+![](images/small_compute_uu.png)
 
 ## DEMO
 
@@ -214,7 +234,7 @@ Topics:
 
 - Sensitive data: usescases for SANE? Training?
 - What do you need, and how can we cooperate?
-- 'One VRE to rule them all'?
+- 'One VRE to rule them all'? (name contest!)
 - Feature requests? 
 
 # {data-background-color="#FFCD00"}
