@@ -170,10 +170,10 @@ See more: [Access to compute services](https://www.surf.nl/en/access-to-compute-
 ## UU VRE service
 
 ::: {.theme-section}
-- Support & Consultancy (Walk in hours)
-- Getting Started training (bi-weekly)
+- Support & Consultancy ([Walk in hours](https://www.uu.nl/en/research/research-data-management/workshops/walk-in-hours-research-data-and-software))
+- [Getting Started training (bi-weekly)](https://www.uu.nl/en/research/research-data-management/workshops/getting-started-with-virtual-research-environments-vres)
 - Sane training (upon request)
-- HPC Spring School (annual)
+- [HPC Spring School](https://utrechtuniversity.github.io/hpc-spring-school/) (annual)
 - Catalog Item development
 
 :::
